@@ -35,6 +35,7 @@
         
         section {
             width: 65%;
+            background-color: rgb(231, 229, 229)
         }
         
         aside,
@@ -93,7 +94,6 @@
         }
         
         #portada {
-            background-color: var(--gris-titulo);
             text-align: center;
         }
         
