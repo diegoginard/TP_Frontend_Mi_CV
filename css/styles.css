@@ -69,12 +69,11 @@
         #foto-perfil {
             width: 100%;
             border: 2px solid white;
-
         }
         
         .habilidades-contact {
             list-style-type: none;
-            font-size: 10px;
+            font-size: 12px;
         }
         
         .contact-container {
